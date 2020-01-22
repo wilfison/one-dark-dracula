@@ -1,0 +1,28 @@
+{
+  "name": "one-dark-dracula",
+  "displayName": "One Dark Dracula",
+  "description": "VS Code Theme based on One Dark Theme and Dracula Theme",
+  "author": {
+    "name": "wilfison",
+    "url": "https://github.com/Wilfison"
+  },
+  "repository": {
+    "url": "https://github.com/Wilfison/one-dark-dracula"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.37.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "One Dark Dracula",
+        "uiTheme": "vs-dark",
+        "path": "./themes/one_dracula_dark-color-theme.json"
+      }
+    ]
+  }
+}
