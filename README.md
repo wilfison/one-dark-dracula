@@ -2,7 +2,7 @@
 
 > A dark theme for [Visual Studio Code](http://code.visualstudio.com) based on [Dracula](https://github.com/dracula/visual-studio-code) and [One Dark Pro](https://github.com/Binaryify/OneDark-Pro) themes.
 
-![Screenshot](./imgs/one-dark-dracula.png)
+![Screenshot](https://raw.githubusercontent.com/Wilfison/one-dark-dracula/master/imgs/one-dracula-dark.png)
 
 ## Install using Command Palette
 
