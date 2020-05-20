@@ -11,6 +11,13 @@
 3. Write `One Dracula Dark`
 4. Select it or press Enter to install
 
+## Direct Install on Linux
+1. Clone this repository:
+  `git clone https://github.com/Wilfison/one-dark-dracula.git ~/.vscode/extensions`
+2. Open your VS Code and press `Ctrl + Shift + P` or `Comand + Shift + P` on Mac.
+3. Then enter `Color Theme`
+4. Select `One Dark Dracula`
+
 # Activating theme
 
 Run Visual Studio Code. The syntax theme will be available from `File > Preferences > Color Theme` dropdown menu.
