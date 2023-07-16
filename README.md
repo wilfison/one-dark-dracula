@@ -18,15 +18,15 @@
 Clone this repository:
 
 ```shell
-git clone https://github.com/Wilfison/one-dark-dracula.git ~/.vscode/extensions
+git clone https://github.com/Wilfison/one-dark-dracula.git ~/.vscode/extensions/one-dark-dracula
 ```
 
 ### Windows
 
 Clone this repository:
 
-```shell
-git clone https://github.com/Wilfison/one-dark-dracula.git %USERPROFILE%\.vscode\extensions
+```powershell
+git clone https://github.com/Wilfison/one-dark-dracula.git %USERPROFILE%\.vscode\extensions\one-dark-dracula
 ```
 
 ## Activating theme
