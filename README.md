@@ -2,18 +2,9 @@
 
 ## A dark theme for [Visual Studio Code](http://code.visualstudio.com) based on [Dracula](https://github.com/dracula/visual-studio-code) and [One Dark Pro](https://github.com/Binaryify/OneDark-Pro) themes
 
-![Screenshot JS](https://raw.githubusercontent.com/Wilfison/one-dark-dracula/master/preview.png)
-
-<!-- ## Install using Command Palette
-
-1. Go to View -> Command Palette or press `Ctrl + Shift + P` or `Comand + Shift + P` on Mac.
-2. Then enter `Install Extension`
-3. Write `One Dracula Dark`
-4. Select it or press Enter to install -->
+![preview](https://github.com/Wilfison/one-dark-dracula/blob/master/preview.png)
 
 ## Manual Install
-
-### Linux / macOS
 
 1. Download last `.vsix` file from [releases](https://github.com/Wilfison/one-dark-dracula/releases) page.
 2. Open VS Code and press `Ctrl + Shift + P` or `Comand + Shift + P` on Mac.
