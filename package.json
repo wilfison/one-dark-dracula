@@ -21,7 +21,7 @@
       {
         "label": "One Dark Dracula",
         "uiTheme": "vs-dark",
-        "path": "./themes/one_dracula_dark-color-theme.json"
+        "path": "./themes/one_dark_dracula-color-theme.json"
       }
     ]
   }
