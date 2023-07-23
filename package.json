@@ -3,6 +3,7 @@
   "displayName": "One Dark Dracula",
   "description": "VS Code Theme based on One Dark Theme and Dracula Theme",
   "icon": "icon.png",
+  "publisher": "wilfison",
   "author": {
     "name": "wilfison",
     "url": "https://github.com/Wilfison"
