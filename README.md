@@ -1,4 +1,4 @@
-# One Dracula Dark VS Code Theme
+# One Dark Dracula Theme for VS Code
 
 ## A dark theme for [Visual Studio Code](http://code.visualstudio.com) based on [Dracula](https://github.com/dracula/visual-studio-code) and [One Dark Pro](https://github.com/Binaryify/OneDark-Pro) themes
 
