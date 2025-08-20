@@ -11,7 +11,7 @@
   "repository": {
     "url": "https://github.com/Wilfison/one-dark-dracula"
   },
-  "version": "1.0.2",
+  "version": "1.0.3",
   "engines": {
     "vscode": "^1.37.0"
   },
